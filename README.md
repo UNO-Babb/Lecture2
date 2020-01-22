@@ -10,7 +10,7 @@ Discuss and demonstrate:
 - understanding error messages
 
 ## Arithmetic Operators
-| Operator    | Description | Notes |
+| Operator    | Description | Notes | 
 | ----------- | ----------- | |
 | + | addition | |
 | - | subtraction | |
