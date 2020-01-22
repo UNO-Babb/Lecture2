@@ -13,7 +13,7 @@ Discuss and demonstrate:
 There are many operators that can be used to get a mathematical result.
 
 | Operator    | Description | Notes |
-| ----------- | ----------- | |
+| --- | --- | --- |
 | + | addition | |
 | - | subtraction | |
 | * | multiplication| |
