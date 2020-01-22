@@ -10,6 +10,7 @@ Discuss and demonstrate:
 - understanding error messages
 
 ## Arithmetic Operators
+There are many operators that can be used to get a mathematical result.
 
 | Operator    | Description | Notes |
 | ----------- | ----------- | |
