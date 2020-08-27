@@ -175,3 +175,36 @@ Hello5
 >>> print("Hello" + str(y))
 Hello2.8
 ```
+### Quiz
+1. What is the ord (ASCII) value of capital 'G'?
+
+1. You're trying to determine how many cars you need to transport a number of people. Which of the following would give you the number of cars needed? We are assuming every car can hold 4 people.
+  - cars = people / 4
+  - cars = people % 4
+  - cars = people ** 4
+  + cars = people // 4
+
+1. What is the output type of the following code?
+```
+>>> approxPi = 22/7
+>>> type(approxPi)
+```
+	+ <class 'float'>
+	- <class 'int'>
+	- <class 'str'>
+	- <class 'chr'>
+
+1. What would be the result of the following code?
+```
+print("Hello\nworld\tHave a nice\n \"Day\"")
+```
+  - It will produce an error
+  - Hello world Have a nice "Day"
+  + Hello
+    world   Have a nice
+     "Day"
+  - Hello\nworld\tHave a nice\n \"Day\"
+
+1. Boolean variables only have two possible states:
+  + True
+  - False
