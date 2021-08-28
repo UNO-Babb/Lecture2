@@ -1,4 +1,4 @@
-# Lecture 2
+# Lecture 2 - CIST 1600
 
 ## Objectives:
 Discuss and demonstrate:
