@@ -178,11 +178,13 @@ Hello2.8
 ### Quiz
 1. What is the ord (ASCII) value of capital 'G'?
 
-2. You're trying to determine how many cars you need to transport a number of people. Which of the following would give you the number of cars needed? We are assuming every car can hold 4 people.
-  - cars = people / 4
-  - cars = people % 4
-  - cars = people ** 4
-  - cars = people // 4
+2. You're trying to determine how many five-person basketball teams you can put together for a tournament given the number of people who have signed up. 
+
+Which equation would give you the number of teams?
+  - teams = people / 5
+  - teams = people % 5
+  - teams = people ** 5
+  - teams = people // 5
 
 3. What is the output type of the following code?
 ```
